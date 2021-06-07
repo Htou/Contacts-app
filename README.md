@@ -12,4 +12,4 @@ Todo:
 
 -Implement polymorphism and built-in functions
 
--Fix code and make it possible to search for contacts.
+-Fix code and make it possible to search for contacts
